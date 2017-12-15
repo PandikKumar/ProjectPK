@@ -1,2 +1,0 @@
-# ProjectPK
-Hospital Management System
